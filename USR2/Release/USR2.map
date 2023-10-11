@@ -1,0 +1,1733 @@
+Archive member included to satisfy reference by file (symbol)
+
+../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o (common_tc_read_count)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o (__fixsfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+                              ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o) (__mulsi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                              src/ASF/mega/drivers/usart/usart_megarf.o (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                              src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                              src/ASF/common/utils/stdio/read.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o) (__muluhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o (__adddi3_s8)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o (__cmpdi2_s8)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o) (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(rand.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o (rand)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o (memcpy)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+                              src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o (fdevopen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fdevopen.o) (__iob)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+                              src/Wireless/usart_serial.o (printf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o) (vfprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(calloc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fdevopen.o) (calloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(calloc.o) (malloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (strnlen_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memset.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(calloc.o) (memset)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (strnlen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (fputc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(rand.o) (__divmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(rand.o) (__mulohisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+timer_multiplier    0x1               ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+sys_time            0x2               src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+tal_rx_on_required  0x1               src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ptr_get             0x2               src/ASF/common/utils/stdio/read.o
+tal_incoming_frame_queue
+                    0x5               src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+timer_array         0x32              src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ptr_put             0x2               src/ASF/common/utils/stdio/write.o
+mac_frame_ptr       0x2               src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+stdio_base          0x2               src/ASF/common/utils/stdio/write.o
+tal_pib             0x1f              src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+tal_trx_status      0x1               src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+last_frame_length   0x1               src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+tal_frame_to_tx     0x2               src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+tal_awake_end_flag  0x1               src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+__iob               0x6               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+timer_trigger       0x1               src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+tal_state           0x1               src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+ .text          0x00000000        0x0 src/ASF/common/services/serial/usart_serial.o
+ .data          0x00000000        0x0 src/ASF/common/services/serial/usart_serial.o
+ .bss           0x00000000        0x0 src/ASF/common/services/serial/usart_serial.o
+ .text          0x00000000        0x0 src/ASF/common/utils/stdio/read.o
+ .data          0x00000000        0x0 src/ASF/common/utils/stdio/read.o
+ .bss           0x00000000        0x0 src/ASF/common/utils/stdio/read.o
+ .text          0x00000000        0x0 src/ASF/common/utils/stdio/write.o
+ .data          0x00000000        0x0 src/ASF/common/utils/stdio/write.o
+ .bss           0x00000000        0x0 src/ASF/common/utils/stdio/write.o
+ .text          0x00000000        0x0 src/ASF/mega/drivers/usart/usart_megarf.o
+ .data          0x00000000        0x0 src/ASF/mega/drivers/usart/usart_megarf.o
+ .bss           0x00000000        0x0 src/ASF/mega/drivers/usart/usart_megarf.o
+ .text.usart_init_spi
+                0x00000000       0xcc src/ASF/mega/drivers/usart/usart_megarf.o
+ .text.usart_set_baudrate_precalculated
+                0x00000000       0xe2 src/ASF/mega/drivers/usart/usart_megarf.o
+ .text.usart_spi_set_baudrate
+                0x00000000       0x54 src/ASF/mega/drivers/usart/usart_megarf.o
+ .progmem.data.baudctrl_16mhz
+                0x00000000        0xe src/ASF/mega/drivers/usart/usart_megarf.o
+ .progmem.data.baudctrl_8mhz
+                0x00000000        0xe src/ASF/mega/drivers/usart/usart_megarf.o
+ .progmem.data.baudctrl_1mhz
+                0x00000000        0xe src/ASF/mega/drivers/usart/usart_megarf.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .text.sio2host_deinit
+                0x00000000        0x2 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .text.sio2host_getchar
+                0x00000000       0x22 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .text.sio2host_putchar
+                0x00000000       0x1e src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .text.sio2host_disable
+                0x00000000        0x2 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .text.sio2host_enable
+                0x00000000        0x2 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .text          0x00000000        0x0 src/usr_wireless.o
+ .data          0x00000000        0x0 src/usr_wireless.o
+ .bss           0x00000000        0x0 src/usr_wireless.o
+ .text          0x00000000        0x0 src/Wireless/usart_serial.o
+ .data          0x00000000        0x0 src/Wireless/usart_serial.o
+ .bss           0x00000000        0x0 src/Wireless/usart_serial.o
+ .rodata.str1.1
+                0x00000000       0x14 src/Wireless/usart_serial.o
+ .text.send_usart_data
+                0x00000000       0x44 src/Wireless/usart_serial.o
+ .text.read_usart_data
+                0x00000000        0x4 src/Wireless/usart_serial.o
+ .comment       0x00000000       0x31 src/Wireless/usart_serial.o
+ .text          0x00000000        0x0 src/Wireless/wireless_api.o
+ .data          0x00000000        0x0 src/Wireless/wireless_api.o
+ .bss           0x00000000        0x0 src/Wireless/wireless_api.o
+ .text.app_alert
+                0x00000000        0x2 src/Wireless/wireless_api.o
+ .text          0x00000000        0x0 src/ASF/common/boards/user_board/init.o
+ .data          0x00000000        0x0 src/ASF/common/boards/user_board/init.o
+ .bss           0x00000000        0x0 src/ASF/common/boards/user_board/init.o
+ .text          0x00000000        0x0 src/ASF/common/services/clock/mega/sysclk.o
+ .data          0x00000000        0x0 src/ASF/common/services/clock/mega/sysclk.o
+ .bss           0x00000000        0x0 src/ASF/common/services/clock/mega/sysclk.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_get_id
+                0x00000000       0x1a src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_start
+                0x00000000      0x1c4 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_get_residual_time
+                0x00000000       0x5a src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_is_running
+                0x00000000       0x1c src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_stop
+                0x00000000      0x164 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_get_time
+                0x00000000        0x4 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_run_residual_time
+                0x00000000       0x58 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_next_timer_expiry_duration
+                0x00000000       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text.pal_calibrate_rc_osc
+                0x00000000        0x4 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text.pal_timer_stop
+                0x00000000       0x18 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text.pal_timer_source_select
+                0x00000000        0x2 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text.pal_timer_get_id
+                0x00000000       0x10 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text.pal_timer_start
+                0x00000000       0x28 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text.pal_is_timer_running
+                0x00000000        0x4 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text.pal_trx_read_timestamp
+                0x00000000       0x18 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text.pal_get_current_time
+                0x00000000       0x18 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+ .text.qmm_queue_read
+                0x00000000        0x8 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+ .text.qmm_queue_flush
+                0x00000000       0x2a src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ .text.tal_convert_symbols_to_us_def
+                0x00000000       0x10 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ .text.tal_convert_us_to_symbols_def
+                0x00000000       0x10 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_ed.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_ed.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_ed.o
+ .comment       0x00000000       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_ed.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+ .text.tal_reset
+                0x00000000       0x90 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .text.pal_trx_irq_init_cca_ed
+                0x00000000        0xa src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+ .text.tal_pib_get
+                0x00000000      0x146 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pwr_mgmt.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pwr_mgmt.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pwr_mgmt.o
+ .text.tal_trx_sleep
+                0x00000000       0x3c src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pwr_mgmt.o
+ .text.tal_trx_wakeup
+                0x00000000       0x1e src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pwr_mgmt.o
+ .comment       0x00000000       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pwr_mgmt.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx_enable.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx_enable.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx_enable.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_slotted_csma.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_slotted_csma.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_slotted_csma.o
+ .comment       0x00000000       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_slotted_csma.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_ext_pa_ctrl
+                0x00000000       0x22 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_set_frequency
+                0x00000000      0x124 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_set_frequency_regs
+                0x00000000       0x7a src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_calculate_frequency
+                0x00000000       0x74 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_set_rx_sensitivity_level
+                0x00000000       0x26 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_rxaack_prom_mode_ctrl
+                0x00000000       0x20 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_get_trx_status
+                0x00000000        0x8 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_trx_reg_read
+                0x00000000       0x18 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_trx_reg_write
+                0x00000000       0x1a src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_get_curr_trx_config
+                0x00000000       0x7a src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .progmem.gcc_sw_table.tal_get_curr_trx_config
+                0x00000000        0xe src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_dump_registers
+                0x00000000       0x34 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_rpc_mode_config
+                0x00000000       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_convert_reg_value_to_dBm
+                0x00000000       0x1a src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_set_tx_pwr
+                0x00000000      0x16a src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_get_rssi_base_val
+                0x00000000        0x4 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text.tal_rxsafe_mode_ctrl
+                0x00000000       0x22 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.__portable_avr_delay_cycles
+                0x00000000       0x16 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_pib_get
+                0x00000000       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_pib_set
+                0x00000000        0xe src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_reset
+                0x00000000       0x12 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_cca_perform
+                0x00000000       0x5c src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_ed_sample
+                0x00000000       0x68 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_get_batmon_voltage
+                0x00000000      0x11a src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_get_temperature
+                0x00000000      0x110 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_continuous_tx_start
+                0x00000000       0xea src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_continuous_tx_stop
+                0x00000000        0x6 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+ .text          0x00000000        0x0 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .data          0x00000000        0x0 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss           0x00000000        0x0 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .text.tc_set_compb_interrupt_callback
+                0x00000000       0x40 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .text.tc_set_compc_interrupt_callback
+                0x00000000       0x40 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .text          0x00000000        0x0 src/main.o
+ .data          0x00000000        0x0 src/main.o
+ .bss           0x00000000        0x0 src/main.o
+ .data          0x00000000        0x0 ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(rand.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(rand.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .text.avr-libc
+                0x00000000       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(printf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .text.avr-libc
+                0x00000000      0x414 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .comment       0x00000000       0x2d c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(calloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(calloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(calloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .text.avr-libc
+                0x00000000       0x78 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .text.avr-libc
+                0x00000000       0xbc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00040000         xr
+data             0x00800200         0x00008000         rw !x
+eeprom           0x00810000         0x00002000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+LOAD src/ASF/common/services/serial/usart_serial.o
+LOAD src/ASF/common/utils/stdio/read.o
+LOAD src/ASF/common/utils/stdio/write.o
+LOAD src/ASF/mega/drivers/usart/usart_megarf.o
+LOAD src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+LOAD src/usr_wireless.o
+LOAD src/Wireless/usart_serial.o
+LOAD src/Wireless/wireless_api.o
+LOAD src/ASF/common/boards/user_board/init.o
+LOAD src/ASF/common/services/clock/mega/sysclk.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_ed.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pwr_mgmt.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx_enable.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_slotted_csma.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+LOAD src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+LOAD src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+LOAD src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+LOAD src/main.o
+START GROUP
+LOAD ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6\libatmega256rfr2.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800200]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800200
+                [0x00040000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00008000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xfe00
+                [0x00002000]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2dac
+ *(.vectors)
+ .vectors       0x00000000      0x134 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.set_trx_state
+                0x00000134       0x2e src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+                0x00000162                . = ALIGN (0x2)
+                0x00000162                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000162        0x0 linker stubs
+ *(.trampolines*)
+                0x00000162                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.tx_pwr_table
+                0x00000162       0x10 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+                0x00000162                tx_pwr_table
+                0x00000172                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000172                __ctors_start = .
+ *(.ctors)
+                0x00000172                __ctors_end = .
+                0x00000172                __dtors_start = .
+ *(.dtors)
+                0x00000172                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000172        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+                0x00000172                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000172       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000182       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x00000182                __do_copy_data
+ .init4         0x0000019c       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x0000019c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001ac        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+ *(.init9)
+ *(.text)
+ .text          0x000001b4        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+                0x000001b4                __vector_38
+                0x000001b4                __vector_22
+                0x000001b4                __vector_28
+                0x000001b4                __vector_67
+                0x000001b4                __vector_1
+                0x000001b4                __vector_24
+                0x000001b4                __vector_12
+                0x000001b4                __vector_55
+                0x000001b4                __vector_69
+                0x000001b4                __vector_46
+                0x000001b4                __bad_interrupt
+                0x000001b4                __vector_6
+                0x000001b4                __vector_31
+                0x000001b4                __vector_39
+                0x000001b4                __vector_3
+                0x000001b4                __vector_23
+                0x000001b4                __vector_68
+                0x000001b4                __vector_30
+                0x000001b4                __vector_25
+                0x000001b4                __vector_11
+                0x000001b4                __vector_54
+                0x000001b4                __vector_13
+                0x000001b4                __vector_56
+                0x000001b4                __vector_7
+                0x000001b4                __vector_41
+                0x000001b4                __vector_27
+                0x000001b4                __vector_5
+                0x000001b4                __vector_52
+                0x000001b4                __vector_37
+                0x000001b4                __vector_4
+                0x000001b4                __vector_51
+                0x000001b4                __vector_9
+                0x000001b4                __vector_2
+                0x000001b4                __vector_21
+                0x000001b4                __vector_15
+                0x000001b4                __vector_66
+                0x000001b4                __vector_29
+                0x000001b4                __vector_40
+                0x000001b4                __vector_8
+                0x000001b4                __vector_26
+                0x000001b4                __vector_14
+                0x000001b4                __vector_53
+                0x000001b4                __vector_10
+                0x000001b4                __vector_16
+                0x000001b4                __vector_65
+ .text          0x000001b6      0x216 ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+                0x000001b6                common_tc_read_count
+                0x00000206                common_tc_compare_stop
+                0x0000022a                common_tc_overflow_stop
+                0x00000234                common_tc_stop
+                0x0000023c                common_tc_delay
+                0x00000326                common_tc_init
+                0x00000334                tmr_ovf_callback
+                0x000003a4                tmr_cca_callback
+                0x000003b8                set_common_tc_overflow_callback
+                0x000003c2                set_common_tc_expiry_callback
+                0x000003cc                . = ALIGN (0x2)
+ *(.text.*)
+ .text.usart_serial_write_packet
+                0x000003cc       0x34 src/ASF/common/services/serial/usart_serial.o
+                0x000003cc                usart_serial_write_packet
+ .text.usart_serial_read_packet
+                0x00000400       0x34 src/ASF/common/services/serial/usart_serial.o
+                0x00000400                usart_serial_read_packet
+ .text._read    0x00000434       0x32 src/ASF/common/utils/stdio/read.o
+                0x00000434                _read
+ .text._write   0x00000466       0x24 src/ASF/common/utils/stdio/write.o
+                0x00000466                _write
+ .text.usart_enable_module_clock
+                0x0000048a       0x1a src/ASF/mega/drivers/usart/usart_megarf.o
+ .text.usart_putchar
+                0x000004a4        0xe src/ASF/mega/drivers/usart/usart_megarf.o
+                0x000004a4                usart_putchar
+ .text.usart_getchar
+                0x000004b2        0xc src/ASF/mega/drivers/usart/usart_megarf.o
+                0x000004b2                usart_getchar
+ .text.usart_set_baudrate
+                0x000004be       0xf2 src/ASF/mega/drivers/usart/usart_megarf.o
+                0x000004be                usart_set_baudrate
+ .text.usart_init_rs232
+                0x000005b0       0x7e src/ASF/mega/drivers/usart/usart_megarf.o
+                0x000005b0                usart_init_rs232
+ .text.usart_serial_getchar
+                0x0000062e       0x10 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .text.usart_serial_putchar
+                0x0000063e        0x2 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .text.sio2host_init
+                0x00000640       0x92 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+                0x00000640                sio2host_init
+ .text.sio2host_tx
+                0x000006d2       0x2e src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+                0x000006d2                sio2host_tx
+ .text.sio2host_rx
+                0x00000700       0x7c src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+                0x00000700                sio2host_rx
+ .text.sio2host_getchar_nowait
+                0x0000077c       0x28 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+                0x0000077c                sio2host_getchar_nowait
+ .text.__vector_36
+                0x000007a4       0x90 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+                0x000007a4                __vector_36
+ .text.usr_wireless_app_task
+                0x00000834       0x6a src/usr_wireless.o
+                0x00000834                usr_wireless_app_task
+ .text.usr_frame_received_cb
+                0x0000089e       0x14 src/usr_wireless.o
+                0x0000089e                usr_frame_received_cb
+ .text.usr_frame_transmitted_cb
+                0x000008b2        0x2 src/usr_wireless.o
+                0x000008b2                usr_frame_transmitted_cb
+ .text.transmit_frame
+                0x000008b4      0x13e src/Wireless/wireless_api.o
+                0x000008b4                transmit_frame
+ .text.transmit_sample_frame
+                0x000009f2       0x64 src/Wireless/wireless_api.o
+                0x000009f2                transmit_sample_frame
+ .text.init_data_reception
+                0x00000a56        0x6 src/Wireless/wireless_api.o
+                0x00000a56                init_data_reception
+ .text.wireless_init
+                0x00000a5c       0x74 src/Wireless/wireless_api.o
+                0x00000a5c                wireless_init
+ .text.board_init
+                0x00000ad0       0x10 src/ASF/common/boards/user_board/init.o
+                0x00000ad0                board_init
+ .text.modules_init
+                0x00000ae0        0x2 src/ASF/common/boards/user_board/init.o
+                0x00000ae0                modules_init
+ .text.sysclk_init
+                0x00000ae2       0x36 src/ASF/common/services/clock/mega/sysclk.o
+                0x00000ae2                sysclk_init
+ .text.sysclk_enable_module
+                0x00000b18       0x30 src/ASF/common/services/clock/mega/sysclk.o
+                0x00000b18                sysclk_enable_module
+ .text.sysclk_disable_module
+                0x00000b48       0x2e src/ASF/common/services/clock/mega/sysclk.o
+                0x00000b48                sysclk_disable_module
+ .text.cpu_irq_save
+                0x00000b76       0x1a src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.hw_expiry_cb
+                0x00000b90       0x10 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+                0x00000b90                hw_expiry_cb
+ .text.gettime  0x00000ba0       0x4e src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.hw_overflow_cb
+                0x00000bee       0x66 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+                0x00000bee                hw_overflow_cb
+ .text.load_hw_timer
+                0x00000c54       0x90 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.internal_timer_handler
+                0x00000ce4       0x76 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .text.sw_timer_init
+                0x00000d5a       0x44 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+                0x00000d5a                sw_timer_init
+ .text.sw_timer_service
+                0x00000d9e       0x76 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+                0x00000d9e                sw_timer_service
+ .text.pal_init
+                0x00000e14        0x4 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+                0x00000e14                pal_init
+ .text.pal_task
+                0x00000e18        0x2 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+                0x00000e18                pal_task
+ .text.bmm_buffer_init
+                0x00000e1a       0x46 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+                0x00000e1a                bmm_buffer_init
+ .text.bmm_buffer_alloc
+                0x00000e60        0xa src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+                0x00000e60                bmm_buffer_alloc
+ .text.bmm_buffer_free
+                0x00000e6a        0xe src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+                0x00000e6a                bmm_buffer_free
+ .text.queue_read_or_remove
+                0x00000e78      0x102 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+ .text.qmm_queue_init
+                0x00000f7a        0xe src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+                0x00000f7a                qmm_queue_init
+ .text.qmm_queue_append
+                0x00000f88       0x4a src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+                0x00000f88                qmm_queue_append
+ .text.qmm_queue_remove
+                0x00000fd2        0x6 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+                0x00000fd2                qmm_queue_remove
+ .text.__portable_avr_delay_cycles
+                0x00000fd8       0x16 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ .text.switch_pll_on
+                0x00000fee       0x34 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ .text.set_trx_state
+                0x00001022      0x250 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+                0x00001022                set_trx_state
+ .text.tal_task
+                0x00001272       0x7e src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+                0x00001272                tal_task
+ .text.__portable_avr_delay_cycles
+                0x000012f0       0x16 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+ .text.trx_reset
+                0x00001306       0x5c src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+ .text.trx_config
+                0x00001362       0x58 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+ .text.tal_generate_rand_seed
+                0x000013ba       0x6e src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+                0x000013ba                tal_generate_rand_seed
+ .text.tal_init
+                0x00001428      0x130 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+                0x00001428                tal_init
+ .text.pal_trx_irq_init_tx_end
+                0x00001558        0xa src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001558                pal_trx_irq_init_tx_end
+ .text.pal_trx_irq_init_rx_end
+                0x00001562        0xa src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001562                pal_trx_irq_init_rx_end
+ .text.pal_trx_irq_init_awake
+                0x0000156c        0xa src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x0000156c                pal_trx_irq_init_awake
+ .text.__vector_63
+                0x00001576       0x56 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001576                __vector_63
+ .text.__vector_60
+                0x000015cc       0x56 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x000015cc                __vector_60
+ .text.__vector_61
+                0x00001622       0x56 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001622                __vector_61
+ .text.__vector_64
+                0x00001678       0x56 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001678                __vector_64
+ .text.__vector_76
+                0x000016ce       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x000016ce                __vector_76
+ .text.__vector_75
+                0x000016e2       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x000016e2                __vector_75
+ .text.__vector_74
+                0x000016f6       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x000016f6                __vector_74
+ .text.__vector_73
+                0x0000170a       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x0000170a                __vector_73
+ .text.__vector_72
+                0x0000171e       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x0000171e                __vector_72
+ .text.__vector_70
+                0x00001732       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001732                __vector_70
+ .text.__vector_71
+                0x00001746       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001746                __vector_71
+ .text.__vector_62
+                0x0000175a       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x0000175a                __vector_62
+ .text.__vector_58
+                0x0000176e       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x0000176e                __vector_58
+ .text.__vector_57
+                0x00001782       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001782                __vector_57
+ .text.__vector_59
+                0x00001796       0x14 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x00001796                __vector_59
+ .text.trx_rx_end_handler_cb
+                0x000017aa       0x22 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x000017aa                trx_rx_end_handler_cb
+ .text.trx_tx_end_handler_cb
+                0x000017cc       0x22 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x000017cc                trx_tx_end_handler_cb
+ .text.trx_awake_handler_cb
+                0x000017ee        0x8 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+                0x000017ee                trx_awake_handler_cb
+ .text.limit_tx_pwr
+                0x000017f6       0x42 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+ .text.init_tal_pib
+                0x00001838       0x5a src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+                0x00001838                init_tal_pib
+ .text.convert_phyTransmitPower_to_reg_value
+                0x00001892       0x30 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+                0x00001892                convert_phyTransmitPower_to_reg_value
+ .text.write_all_tal_pib_to_trx
+                0x000018c2       0xb2 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+                0x000018c2                write_all_tal_pib_to_trx
+ .text.tal_pib_set
+                0x00001974      0x212 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+                0x00001974                tal_pib_set
+ .text.__portable_avr_delay_cycles.constprop.0
+                0x00001b86        0x2 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o
+ .text.handle_received_frame_irq
+                0x00001b88       0xd0 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o
+                0x00001b88                handle_received_frame_irq
+ .text.process_incoming_frame
+                0x00001c58       0x6a src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o
+                0x00001c58                process_incoming_frame
+ .text.tal_rx_enable
+                0x00001cc2       0x38 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx_enable.o
+                0x00001cc2                tal_rx_enable
+ .text.__portable_avr_delay_cycles
+                0x00001cfa       0x16 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+ .text.tx_done_handling
+                0x00001d10       0x22 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+                0x00001d10                tx_done_handling
+ .text.send_frame
+                0x00001d32      0x116 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+                0x00001d32                send_frame
+ .text.tal_tx_frame
+                0x00001e48       0x40 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+                0x00001e48                tal_tx_frame
+ .text.handle_tx_end_irq
+                0x00001e88       0x3e src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+                0x00001e88                handle_tx_end_irq
+ .text.tal_ant_div_config
+                0x00001ec6       0xea src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+                0x00001ec6                tal_ant_div_config
+ .text.tfa_pib_set.part.0
+                0x00001fb0       0x46 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .text.tfa_init
+                0x00001ff6       0x20 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+                0x00001ff6                tfa_init
+ .text.tc_ovf_callback
+                0x00002016        0x4 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x00002016                tc_ovf_callback
+ .text.tc_cca_callback
+                0x0000201a        0x4 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x0000201a                tc_cca_callback
+ .text.clear_compa_flag.constprop.5
+                0x0000201e        0x4 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+ .text.tc_disable_compa_int.constprop.8
+                0x00002022        0xc src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+ .text.tc_enable_ovf_int.constprop.10
+                0x0000202e        0xc src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+ .text.tmr_read_count
+                0x0000203a        0xa src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x0000203a                tmr_read_count
+ .text.tmr_disable_cc_interrupt
+                0x00002044        0x4 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x00002044                tmr_disable_cc_interrupt
+ .text.tmr_enable_cc_interrupt
+                0x00002048        0xe src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x00002048                tmr_enable_cc_interrupt
+ .text.tmr_disable_ovf_interrupt
+                0x00002056        0x6 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x00002056                tmr_disable_ovf_interrupt
+ .text.tmr_stop
+                0x0000205c        0x6 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x0000205c                tmr_stop
+ .text.tmr_write_cmpreg
+                0x00002062       0x16 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x00002062                tmr_write_cmpreg
+ .text.save_cpu_interrupt
+                0x00002078       0x1a src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x00002078                save_cpu_interrupt
+ .text.restore_cpu_interrupt
+                0x00002092        0x4 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x00002092                restore_cpu_interrupt
+ .text.tmr_init
+                0x00002096       0x2c src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+                0x00002096                tmr_init
+ .text.__vector_20
+                0x000020c2       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000020c2                __vector_20
+ .text.__vector_17
+                0x0000211c       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x0000211c                __vector_17
+ .text.__vector_18
+                0x00002176       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002176                __vector_18
+ .text.__vector_19
+                0x000021d0       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000021d0                __vector_19
+ .text.__vector_35
+                0x0000222a       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x0000222a                __vector_35
+ .text.__vector_32
+                0x00002284       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002284                __vector_32
+ .text.__vector_33
+                0x000022de       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000022de                __vector_33
+ .text.__vector_34
+                0x00002338       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002338                __vector_34
+ .text.__vector_45
+                0x00002392       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002392                __vector_45
+ .text.__vector_42
+                0x000023ec       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000023ec                __vector_42
+ .text.__vector_43
+                0x00002446       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002446                __vector_43
+ .text.__vector_44
+                0x000024a0       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000024a0                __vector_44
+ .text.__vector_50
+                0x000024fa       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000024fa                __vector_50
+ .text.__vector_47
+                0x00002554       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002554                __vector_47
+ .text.__vector_48
+                0x000025ae       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000025ae                __vector_48
+ .text.__vector_49
+                0x00002608       0x5a src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002608                __vector_49
+ .text.tc_enable
+                0x00002662       0xae src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002662                tc_enable
+ .text.tc_disable
+                0x00002710       0xae src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x00002710                tc_disable
+ .text.tc_set_overflow_interrupt_callback
+                0x000027be       0x40 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000027be                tc_set_overflow_interrupt_callback
+ .text.tc_set_compa_interrupt_callback
+                0x000027fe       0x40 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+                0x000027fe                tc_set_compa_interrupt_callback
+ .text.startup.main
+                0x0000283e       0x16 src/main.o
+                0x0000283e                main
+ .text.tal_tx_frame_done_cb
+                0x00002854        0x4 src/main.o
+                0x00002854                tal_tx_frame_done_cb
+ .text.tal_rx_frame_cb
+                0x00002858       0x16 src/main.o
+                0x00002858                tal_rx_frame_cb
+ .text.libgcc.mul
+                0x0000286e       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulsi3.o)
+                0x0000286e                __mulsi3
+ .text.libgcc.div
+                0x0000288c       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodhi4.o)
+                0x0000288c                __udivmodhi4
+ .text.libgcc.div
+                0x000028b4       0x26 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodhi4.o)
+                0x000028b4                _div
+                0x000028b4                __divmodhi4
+ .text.libgcc.div
+                0x000028da       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x000028da                __udivmodsi4
+ .text.libgcc   0x0000291e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x0000291e                __tablejump2__
+ .text.libgcc.mul
+                0x0000292e       0x14 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_muluhisi3.o)
+                0x0000292e                __muluhisi3
+ .text.libgcc   0x00002942       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_adddi3_s8.o)
+                0x00002942                __adddi3_s8
+ .text.libgcc   0x0000295a       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_cmpdi2_s8.o)
+                0x0000295a                __cmpdi2_s8
+ .text.libgcc.mul
+                0x00002972       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_umulhisi3.o)
+                0x00002972                __umulhisi3
+ .text.avr-libc
+                0x00002990       0xaa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(rand.o)
+                0x00002a1c                rand_r
+                0x00002a1e                rand
+                0x00002a24                srand
+ .text.avr-libc
+                0x00002a3a       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                0x00002a3a                memcpy
+ .text.avr-libc
+                0x00002a4c       0x94 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+                0x00002a4c                fdevopen
+ .text.avr-libc
+                0x00002ae0       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(calloc.o)
+                0x00002ae0                calloc
+ .text.avr-libc
+                0x00002b14      0x242 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00002b14                malloc
+                0x00002c44                free
+ .text.avr-libc
+                0x00002d56        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(memset.o)
+                0x00002d56                memset
+ .text.libgcc.div
+                0x00002d64       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_divmodsi4.o)
+                0x00002d64                __divmodsi4
+ .text.libgcc.div
+                0x00002d8c       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_negsi2.o)
+                0x00002d8c                __negsi2
+ .text.libgcc.mul
+                0x00002d9c        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_mulshisi3.o)
+                0x00002d9c                __mulshisi3
+                0x00002da0                __mulohisi3
+                0x00002da8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002da8        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00002da8                _exit
+                0x00002da8                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002da8        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002dac                _etext = .
+
+.data           0x00800200       0x1c load address 0x00002dac
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(rand.o)
+ .data          0x00800204        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00800204                __malloc_heap_end
+                0x00800206                __malloc_heap_start
+                0x00800208                __malloc_margin
+ *(.data*)
+ .data.usart_serial_options
+                0x0080020a        0x7 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .data.direccion
+                0x00800211        0x2 src/usr_wireless.o
+                0x00800211                direccion
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.CSWTCH.19
+                0x00800213        0x8 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+ *(.gnu.linkonce.r*)
+                0x0080021c                . = ALIGN (0x2)
+ *fill*         0x0080021b        0x1 
+                0x0080021c                _edata = .
+                0x0080021c                PROVIDE (__data_end, .)
+
+.bss            0x0080021c      0x402
+                0x0080021c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080021c        0xb ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+ *(.bss*)
+ .bss.serial_rx_count
+                0x00800227        0x1 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .bss.serial_rx_buf_tail
+                0x00800228        0x1 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .bss.serial_rx_buf_head
+                0x00800229        0x1 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .bss.serial_rx_buf
+                0x0080022a       0x9c src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .bss.payload.3398
+                0x008002c6       0x74 src/usr_wireless.o
+ .bss.payload_length.3397
+                0x0080033a        0x1 src/usr_wireless.o
+ .bss.seq_num.3404
+                0x0080033b        0x2 src/Wireless/wireless_api.o
+ .bss.storage_buffer
+                0x0080033d       0x8b src/Wireless/wireless_api.o
+ .bss.alloc_timer_id
+                0x008003c8        0x1 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .bss.expired_timer_queue_tail
+                0x008003c9        0x1 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .bss.expired_timer_queue_head
+                0x008003ca        0x1 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .bss.running_timer_queue_head
+                0x008003cb        0x1 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .bss.running_timers
+                0x008003cc        0x1 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .bss.free_large_buffer_q
+                0x008003cd        0x5 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+ .bss.buf_header
+                0x008003d2        0xc src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+ .bss.buf_pool  0x008003de      0x1a1 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+ .bss.tal_rx_buffer
+                0x0080057f        0x2 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+                0x0080057f                tal_rx_buffer
+ .bss.irq_hdl_trx_awake
+                0x00800581        0x2 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .bss.irq_hdl_trx_cca_ed
+                0x00800583        0x2 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .bss.irq_hdl_trx_rx_end
+                0x00800585        0x2 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .bss.irq_hdl_trx_tx_end
+                0x00800587        0x2 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .bss.trx_trac_status
+                0x00800589        0x1 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+ .bss.tfa_pib_rx_sens
+                0x0080058a        0x1 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .bss.tc_tccr5_compc_callback
+                0x0080058b        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr5_compb_callback
+                0x0080058d        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr5_compa_callback
+                0x0080058f        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr5_ovf_callback
+                0x00800591        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr4_compc_callback
+                0x00800593        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr4_compb_callback
+                0x00800595        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr4_compa_callback
+                0x00800597        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr4_ovf_callback
+                0x00800599        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr3_compc_callback
+                0x0080059b        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr3_compb_callback
+                0x0080059d        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr3_compa_callback
+                0x0080059f        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr3_ovf_callback
+                0x008005a1        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr1_compc_callback
+                0x008005a3        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr1_compb_callback
+                0x008005a5        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr1_compa_callback
+                0x008005a7        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .bss.tc_tccr1_ovf_callback
+                0x008005a9        0x2 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ *(COMMON)
+ COMMON         0x008005ab        0x2 src/ASF/common/utils/stdio/read.o
+                0x008005ab                ptr_get
+ COMMON         0x008005ad        0x4 src/ASF/common/utils/stdio/write.o
+                0x008005ad                ptr_put
+                0x008005af                stdio_base
+ COMMON         0x008005b1       0x35 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+                0x008005b1                sys_time
+                0x008005b3                timer_array
+                0x008005e5                timer_trigger
+ COMMON         0x008005e6       0x2d src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+                0x008005e6                tal_rx_on_required
+                0x008005e7                tal_incoming_frame_queue
+                0x008005ec                mac_frame_ptr
+                0x008005ee                tal_pib
+                0x0080060d                tal_trx_status
+                0x0080060e                last_frame_length
+                0x0080060f                tal_frame_to_tx
+                0x00800611                tal_awake_end_flag
+                0x00800612                tal_state
+ COMMON         0x00800613        0x1 ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+                0x00800613                timer_multiplier
+ COMMON         0x00800614        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+                0x00800614                __iob
+ COMMON         0x0080061a        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x0080061a                __brkval
+                0x0080061c                __flp
+                0x0080061e                PROVIDE (__bss_end, .)
+                0x00002dac                __data_load_start = LOADADDR (.data)
+                0x00002dc8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080061e        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080061e                _end = .
+                0x0080061e                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 src/ASF/common/services/serial/usart_serial.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 src/ASF/common/utils/stdio/read.o
+ .comment       0x00000030       0x31 src/ASF/common/utils/stdio/write.o
+ .comment       0x00000030       0x31 src/ASF/mega/drivers/usart/usart_megarf.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/addons/sio2host/uart/sio2host.o
+ .comment       0x00000030       0x31 src/usr_wireless.o
+ .comment       0x00000030       0x31 src/Wireless/wireless_api.o
+ .comment       0x00000030       0x31 src/ASF/common/boards/user_board/init.o
+ .comment       0x00000030       0x31 src/ASF/common/services/clock/mega/sysclk.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/common_sw_timer/common_sw_timer.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/pal/pal.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/buffer/src/bmm.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/resources/queue/src/qmm.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_init.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_irq_handler.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_pib.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_rx_enable.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/atmegarfr2/src/tal_tx.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tal/src/tal_helper.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/avr2025_mac/source/tfa/atmegarfr2/src/tfa.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/services/common_hw_timer/mega/hw_timer.o
+ .comment       0x00000030       0x31 src/ASF/thirdparty/wireless/services/mega/drivers/tc/tc_megarf.o
+ .comment       0x00000030       0x31 src/main.o
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(rand.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(iob.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(calloc.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x20
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x1662
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x13e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+ .debug_info    0x000013e6      0x27c ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+
+.debug_abbrev   0x00000000     0x13ed
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x12d6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+ .debug_abbrev  0x000012d6      0x117 ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+
+.debug_line     0x00000000      0x3b7
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x272 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+ .debug_line    0x00000272      0x145 ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+
+.debug_frame    0x00000000       0xc8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xc8 ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+
+.debug_str      0x00000000      0xa54
+ *(.debug_str)
+ .debug_str     0x00000000      0x7f7 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
+ .debug_str     0x000007f7      0x25d ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+                                0x2a0 (size before relaxing)
+
+.debug_loc      0x00000000      0x16e
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x16e ../src/ASF/thirdparty/wireless/services/common_hw_timer/mega/lib\libmegarfr2_lib_hw_timer.a(common_hw_timer.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(USR2.elf elf32-avr)
+LOAD linker stubs
